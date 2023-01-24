@@ -1,4 +1,4 @@
-baseURL = "https://Meryl-D.github.io/blog-labveiltec"
+baseURL = "https://meryl-d.github.io/blog-labveiltec"
 languageCode = "fr-ch"
 theme = "hugo-winston-theme"
 themesDir = "themes"
