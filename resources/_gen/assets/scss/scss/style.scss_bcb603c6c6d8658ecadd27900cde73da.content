@@ -390,7 +390,9 @@ ul.pagination {
     align-items: center;
     justify-content: flex-start; }
     .menu-main > ul > li {
-      margin-right: 10px; }
+      margin-right: 10px;
+      width: 75px;
+      text-align: center; }
       .menu-main > ul > li > a {
         display: inline-block;
         text-decoration: none; }
