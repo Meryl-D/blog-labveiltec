@@ -1,11 +1,11 @@
 ---
-title: Cypress in 100 Seconds
+title: Cypress en bref
 date: 2023-01-12T15:27:15+01:00
-description: "« Cypress in 100 seconds » est une vidéo youtube postée par Fireship. Elle a été sélectionnée pour sa courte durée, son côté ludique et informatif. De plus, elle présente un framework de test Javascript que je ne connais pas, ayant plutôt utilisé Jest."
+description: "\"Cypress in 100 seconds\" est une vidéo youtube postée par Fireship. Elle a été sélectionnée pour sa courte durée, son côté ludique et informatif. De plus, elle présente un framework de test Javascript que je ne connais pas, ayant plutôt utilisé Jest."
 image: images/cypress.jpg
 ---
-#### « Cypress in 100 seconds » est une vidéo youtube postée par Fireship. Elle a été sélectionnée sa courte durée, son côté ludique et informatif. De plus, elle présente un framework de test Javascript que je ne connais pas, ayant plutôt utilisé Jest.
 
+**"Cypress in 100 seconds" est une vidéo youtube postée par Fireship. Elle a été sélectionnée pour sa courte durée, son côté ludique et informatif. De plus, elle présente un framework de test Javascript que je ne connais pas, ayant plutôt utilisé Jest.**
 
 ## Le dilemme du testing
 
@@ -24,3 +24,6 @@ Ainsi, cette vidéo met en lumière le framework de test Javascript Cypress. Cel
 
 Cypress pourra être testé lors des prochains projets, afin de le confronter à Jest et voir si l’aspect plus visuel et interactif du framework rendra la tâche plus intéressante.
 
+
+### Vidéo de référence
+[Cypress in 100 seconds](https://www.youtube.com/watch?v=BQqzfHQkREo)
